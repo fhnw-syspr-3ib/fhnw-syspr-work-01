@@ -3,7 +3,7 @@
 Für Slides und Code Beispiele, siehe [Lektion 1](../../../fhnw-syspr/blob/master/01/README.md)
 
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
-> *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/_TODO_).*
+> *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/ma4WmxsU).*
 
 ### a) int Wertebereich, 20'
 * Hardware bzw. Compiler-abhängige Konstanten:<pre>
